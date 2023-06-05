@@ -1,0 +1,2 @@
+# 最大请求数
+REQUEST_MAX_ATTEMPTS = 3
